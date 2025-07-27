@@ -82,7 +82,7 @@ const Home = () => {
       
       {/* Hero Section */}
       <section 
-        className="relative min-h-[90vh] md:min-h-screen flex items-center py-20 md:py-24"
+        className="relative min-h-[90vh] md:min-h-[95vh] lg:min-h-screen flex items-center py-16 sm:py-20 md:py-24"
         style={{
           backgroundImage: `linear-gradient(to bottom, rgba(10, 0, 171, 0.85), rgba(26, 18, 255, 0.75)), url(${heroImage})`,
           backgroundSize: 'cover',
@@ -97,18 +97,18 @@ const Home = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5 }}
-              className="text-center md:text-left"
+              className="text-center md:text-left px-4 sm:px-0"
             >
               <span className="text-primary-400 font-medium mb-2 md:mb-4 block">
                 Welcome to Digital Future
               </span>
-              <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-white mb-4 md:mb-6">
+              <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-white mb-4 md:mb-6 leading-tight">
                 Empowering Organizations with a Complete <span className="text-primary-400">Digital Presence</span>
               </h1>
-              <p className="text-secondary-300 text-base md:text-lg mb-6 md:mb-8 max-w-xl mx-auto md:mx-0">
+              <p className="text-secondary-300 text-sm sm:text-base md:text-lg mb-6 md:mb-8 max-w-xl mx-auto md:mx-0 leading-relaxed">
                 Professional website development, social media management, and digital content creation services tailored for churches, schools, charities, and businesses.
               </p>
-              <div className="flex flex-wrap gap-4 justify-center md:justify-start">
+              <div className="flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4 justify-center md:justify-start items-center sm:items-start">
                 <Link to="/contact" className="btn-primary group relative overflow-hidden">
                   <span className="relative z-10">Hire Me</span>
                   <span className="absolute inset-0 bg-primary-700 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300"></span>

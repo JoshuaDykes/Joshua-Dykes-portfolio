@@ -81,8 +81,8 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About Joshua Dykes | Digital Future</title>
-        <meta name="description" content="Learn about Joshua Dykes, a digital professional offering complete digital presence solutions for organizations including web development, social media management, and content creation." />
+        <title>About Accra Digital ltd | Digital Future</title>
+        <meta name="description" content="Learn about Accra Digital ltd, a digital professional offering complete digital presence solutions for organizations including web development, social media management, and content creation." />
       </Helmet>
       
       {/* Hero Section */}
@@ -124,7 +124,7 @@ const About = () => {
             >
               <img 
                 src={profileImage} 
-                alt="Joshua Dykes" 
+                alt="Accra Digital ltd" 
                 className="rounded-lg shadow-lg w-full max-w-md mx-auto transition-all duration-500 ease-in-out hover:scale-105 hover:shadow-2xl hover:shadow-primary-500/25 hover:border-2 hover:border-primary-300 cursor-pointer transform hover:rotate-1 hover:brightness-110"
               />
             </motion.div>
@@ -137,7 +137,7 @@ const About = () => {
             >
               <SectionTitle 
                 subtitle="Who We Are"
-                title="Joshua Dykes"
+                title="Accra Digital ltd"
                 description="A digital professional with a passion for creating impactful online experiences."
               />
               

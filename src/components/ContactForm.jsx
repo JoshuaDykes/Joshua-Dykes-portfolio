@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import { useLocation } from 'react-router-dom'
-import { FiCheckCircle, FiAlertCircle } from 'react-icons/fi'
+import { FiAlertCircle } from 'react-icons/fi'
+import AnimatedCheckmark from './AnimatedCheckmark'
 
 // Services offered
 const services = [
@@ -103,6 +104,12 @@ const ContactForm = () => {
           message: 'Thank you! Your message has been received.'
         })
         
+        // Scroll to top to show success message
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+
         // Reset form
         setFormData({
           name: '',
@@ -134,7 +141,7 @@ const ContactForm = () => {
         <div className={`p-4 mb-6 rounded-md ${formStatus.success ? 'bg-green-50 text-green-800' : 'bg-red-50 text-red-800'}`}>
           <div className="flex items-center">
             {formStatus.success ? (
-              <FiCheckCircle className="mr-2 text-green-500" size={20} />
+              <AnimatedCheckmark />
             ) : (
               <FiAlertCircle className="mr-2 text-red-500" size={20} />
             )}

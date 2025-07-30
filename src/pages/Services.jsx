@@ -129,8 +129,8 @@ const Services = () => {
   return (
     <>
       <Helmet>
-        <title>Services | Joshua Dykes - Digital Future</title>
-        <meta name="description" content="Explore the comprehensive digital services offered by Joshua Dykes including website development, social media management, content creation, graphic design, e-commerce solutions, and photo editing." />
+        <title>Services | Accra Digital ltd - Digital Future</title>
+        <meta name="description" content="Explore the comprehensive digital services offered by Accra Digital ltd including website development, social media management, content creation, graphic design, e-commerce solutions, and photo editing." />
       </Helmet>
       
       {/* Hero Section */}

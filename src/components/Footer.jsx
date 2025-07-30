@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* About Column */}
           <div>
-            <h3 className="text-xl font-bold mb-4">Joshua Dykes</h3>
+            <h3 className="text-xl font-bold mb-4">Accra Digital ltd</h3>
             <p className="text-secondary-300 mb-4">
               Empowering organizations with a complete digital presence. Professional web development, social media management, and digital content creation services.
             </p>
@@ -101,7 +101,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-secondary-700 mt-8 md:mt-12 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-secondary-400 text-sm text-center md:text-left">
-            © {currentYear} Joshua Dykes. All Rights Reserved.
+            © {currentYear} Accra Digital ltd. All Rights Reserved.
           </p>
           <div className="mt-4 md:mt-0">
             <ul className="flex space-x-4 md:space-x-6 text-sm">

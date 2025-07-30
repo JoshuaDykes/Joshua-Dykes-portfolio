@@ -24,7 +24,7 @@ const projects = [
   },
   {
     id: 2,
-    title: 'Dykes Digital Branding',
+    title: 'Accra Digital Branding',
     category: 'Graphic Design',
     image: project2Image,
     description: 'Complete brand identity design including logo, color palette, typography, and brand guidelines.',
@@ -95,8 +95,8 @@ const Portfolio = () => {
   return (
     <>
       <Helmet>
-        <title>Portfolio | Joshua Dykes - Digital Future</title>
-        <meta name="description" content="Explore Joshua Dykes' portfolio of digital projects including websites, graphic design, social media campaigns, and more." />
+        <title>Portfolio | Accra Digital ltd - Digital Future</title>
+        <meta name="description" content="Explore Accra Digital ltd' portfolio of digital projects including websites, graphic design, social media campaigns, and more." />
       </Helmet>
       
       {/* Hero Section */}

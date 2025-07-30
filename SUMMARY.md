@@ -1,8 +1,8 @@
-# Joshua Dykes Portfolio Website - Project Summary
+# Accra Digital ltd Portfolio Website - Project Summary
 
 ## Project Overview
 
-This project is a modern, responsive portfolio website for Joshua Dykes, a digital professional offering complete digital presence solutions for organizations. The website serves as both a portfolio showcase and a client acquisition platform.
+This project is a modern, responsive portfolio website for Accra Digital ltd, a digital professional offering complete digital presence solutions for organizations. The website serves as both a portfolio showcase and a client acquisition platform.
 
 ## Key Features Implemented
 
@@ -80,4 +80,4 @@ This project is a modern, responsive portfolio website for Joshua Dykes, a digit
 
 ---
 
-Built with React, Tailwind CSS, and Framer Motion for Joshua Dykes 
+Built with React, Tailwind CSS, and Framer Motion for Accra Digital ltd 

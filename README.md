@@ -1,10 +1,10 @@
-# Joshua Dykes — Digital Future Portfolio
+# Accra Digital ltd — Digital Future Portfolio
 
-![Joshua Dykes Digital Future](src/assets/images/og-image.jpg)
+![Accra Digital ltd Digital Future](src/assets/images/og-image.jpg)
 
 ## Overview
 
-This professional portfolio website showcases Joshua Dykes' digital services, projects, and expertise. The platform serves as both a portfolio and client acquisition tool, offering complete digital presence solutions for organizations.
+This professional portfolio website showcases Accra Digital ltd' digital services, projects, and expertise. The platform serves as both a portfolio and client acquisition tool, offering complete digital presence solutions for organizations.
 
 > **Slogan:** _Digital Future_  
 > **Target Clients:** Churches, schools, charities, community organizations, businesses, entrepreneurs
@@ -61,10 +61,10 @@ This professional portfolio website showcases Joshua Dykes' digital services, pr
 
 ## 📧 Contact
 
-For inquiries about digital services, please use the contact form on the website or reach out directly to Joshua Dykes.
+For inquiries about digital services, please use the contact form on the website or reach out directly to Accra Digital ltd.
 
 ---
 
-**Built for: Joshua Dykes**  
+**Built for: Accra Digital ltd**  
 **Business Motto: Digital Future**  
 _"Empowering organizations with a complete digital presence."_ 

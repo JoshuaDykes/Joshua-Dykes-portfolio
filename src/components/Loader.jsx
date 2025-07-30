@@ -10,8 +10,8 @@ const Loader = () => {
           transition={{ duration: 0.5 }}
           className="mb-8 text-4xl font-bold"
         >
-          <span className="text-primary-500">Joshua</span>
-          <span className="text-white">Dykes</span>
+          <span className="text-primary-500">Accra</span>
+          <span className="text-white">Digital</span>
         </motion.div>
         
         <motion.div

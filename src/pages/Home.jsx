@@ -110,7 +110,7 @@ const Home = () => {
               </p>
               <div className="flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4 justify-center md:justify-start items-center sm:items-start">
                 <Link to="/contact" className="btn-primary group relative overflow-hidden">
-                  <span className="relative z-10">Hire Me</span>
+                  <span className="relative z-10">Contact Us</span>
                   <span className="absolute inset-0 bg-primary-700 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300"></span>
                 </Link>
                 <Link to="/portfolio" className="btn-outline border-white text-white hover:bg-white hover:text-primary-600 group relative overflow-hidden">

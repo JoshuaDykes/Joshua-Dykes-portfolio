@@ -1,8 +1,8 @@
-# Accra Digital ltd Portfolio Website - Project Summary
+# Ark Digital ltd Portfolio Website - Project Summary
 
 ## Project Overview
 
-This project is a modern, responsive portfolio website for Accra Digital ltd, a digital professional offering complete digital presence solutions for organizations. The website serves as both a portfolio showcase and a client acquisition platform.
+This project is a modern, responsive portfolio website for Ark Digital ltd, a digital professional offering complete digital presence solutions for organizations. The website serves as both a portfolio showcase and a client acquisition platform.
 
 ## Key Features Implemented
 
@@ -80,4 +80,4 @@ This project is a modern, responsive portfolio website for Accra Digital ltd, a 
 
 ---
 
-Built with React, Tailwind CSS, and Framer Motion for Accra Digital ltd 
+Built with React, Tailwind CSS, and Framer Motion for Ark Digital ltd 

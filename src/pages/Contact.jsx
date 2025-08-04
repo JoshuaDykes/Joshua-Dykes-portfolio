@@ -10,8 +10,8 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Contact | Accra Digital ltd - Digital Future</title>
-        <meta name="description" content="Get in touch with Accra Digital ltd for professional digital services including website development, social media management, and graphic design." />
+        <title>Contact | Ark Digital ltd - Digital Future</title>
+        <meta name="description" content="Get in touch with Ark Digital ltd for professional digital services including website development, social media management, and graphic design." />
       </Helmet>
       
       {/* Hero Section */}

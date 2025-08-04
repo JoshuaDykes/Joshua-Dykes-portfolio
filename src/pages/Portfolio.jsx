@@ -24,7 +24,7 @@ const projects = [
   },
   {
     id: 2,
-    title: 'Accra Digital Branding',
+    title: 'Ark Digital Branding',
     category: 'Graphic Design',
     image: project2Image,
     description: 'Complete brand identity design including logo, color palette, typography, and brand guidelines.',
@@ -95,8 +95,8 @@ const Portfolio = () => {
   return (
     <>
       <Helmet>
-        <title>Portfolio | Accra Digital ltd - Digital Future</title>
-        <meta name="description" content="Explore Accra Digital ltd' portfolio of digital projects including websites, graphic design, social media campaigns, and more." />
+        <title>Portfolio | Ark Digital ltd - Digital Future</title>
+        <meta name="description" content="Explore Ark Digital ltd' portfolio of digital projects including websites, graphic design, social media campaigns, and more." />
       </Helmet>
       
       {/* Hero Section */}

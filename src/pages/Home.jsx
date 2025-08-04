@@ -76,7 +76,7 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Accra Digital ltd - Digital Future | Professional Digital Services</title>
+        <title>Ark Digital ltd - Digital Future | Professional Digital Services</title>
         <meta name="description" content="We complete digital presence solutions including website development, social media management, and graphic design for organizations and businesses." />
       </Helmet>
       
@@ -139,7 +139,7 @@ const Home = () => {
             >
               <img 
                 src={profileImage} 
-                alt="Accra Digital ltd" 
+                alt="Ark Digital ltd" 
                 className="w-full max-w-md mx-auto rounded-lg shadow-2xl relative z-20"
                 style={{ filter: "drop-shadow(0 10px 8px rgb(0 0 0 / 0.2))" }}
               />
@@ -154,7 +154,7 @@ const Home = () => {
             >
               <img 
                 src={profileImage} 
-                alt="Accra Digital ltd" 
+                alt="Ark Digital ltd" 
                 className="w-full max-w-[250px] mx-auto rounded-lg shadow-xl relative z-20"
                 style={{ filter: "drop-shadow(0 10px 8px rgb(0 0 0 / 0.2))" }}
               />
@@ -239,7 +239,7 @@ const Home = () => {
             >
               <SectionTitle 
                                   subtitle="About Us"
-                                                    title="Accra Digital ltd"
+                                                    title="Ark Digital ltd"
                 description="We're digital professionals passionate about helping organizations establish a meaningful online presence."
               />
               

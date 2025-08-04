@@ -77,11 +77,11 @@ const Navbar = () => {
           >
             <img 
               src={logoImage} 
-              alt="Accra Digital ltd Logo" 
+              alt="Ark Digital ltd Logo" 
               className="h-10 md:h-12 mr-2 md:mr-3 transition-all duration-300 hover:scale-105"
             />
             <span className="text-xl md:text-2xl font-bold">
-              <span className="text-primary-500">Accra</span>
+              <span className="text-primary-500">Ark</span>
               <span className="text-secondary-800">Digital</span>
             </span>
           </motion.div>

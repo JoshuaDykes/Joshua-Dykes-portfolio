@@ -81,8 +81,8 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About Accra Digital ltd | Digital Future</title>
-        <meta name="description" content="Learn about Accra Digital ltd, a digital professional offering complete digital presence solutions for organizations including web development, social media management, and content creation." />
+        <title>About Ark Digital ltd | Digital Future</title>
+        <meta name="description" content="Learn about Ark Digital ltd, a digital professional offering complete digital presence solutions for organizations including web development, social media management, and content creation." />
       </Helmet>
       
       {/* Hero Section */}
@@ -124,7 +124,7 @@ const About = () => {
             >
               <img 
                 src={profileImage} 
-                alt="Accra Digital ltd" 
+                alt="Ark Digital ltd" 
                 className="rounded-lg shadow-lg w-full max-w-md mx-auto transition-all duration-500 ease-in-out hover:scale-105 hover:shadow-2xl hover:shadow-primary-500/25 hover:border-2 hover:border-primary-300 cursor-pointer transform hover:rotate-1 hover:brightness-110"
               />
             </motion.div>
@@ -137,7 +137,7 @@ const About = () => {
             >
               <SectionTitle 
                 subtitle="Who We Are"
-                title="Accra Digital ltd"
+                title="Ark Digital ltd"
                 description="A digital professional with a passion for creating impactful online experiences."
               />
               
